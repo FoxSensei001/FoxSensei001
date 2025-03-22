@@ -1,1 +1,2 @@
 - 👋 Hi, I’m @FoxSensei001
+- ⭐ Skills: Backend development (Java, Node.js), frontend development (React、Vue、NextJs、Electron), and currently exploring Flutter for cross-platform app development.
